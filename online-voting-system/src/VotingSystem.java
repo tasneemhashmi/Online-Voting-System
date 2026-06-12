@@ -4,7 +4,6 @@ class Candidate {
     private String candidateName;
     private int voteCount;
 
-    // Constructor
     public Candidate(String candidateName) {
         this.candidateName = candidateName;
         this.voteCount = 0;
